@@ -4,7 +4,13 @@ After the execution of the this tutorial you'll end up having a new collection w
 
 ![](screenshots/recommendations-collection.png)
 
-You can watch the following video to see how it works.
+You can watch the following video to see
+
+[![Watch the video](https://github.com/afsungur/mongodb-spark-movie-recommendation/assets/2204667/22dd6c8a-8e3b-4ae6-af3b-decd10f069a6)
+
+
+
+ how it works.
 
 # Steps
 
